@@ -415,7 +415,7 @@ const Home = () => {
                 Bike • Scooter • Car
               </p>
               <h1 style={{ animationDelay: '70ms' }} className="sg-hero-up mb-6 text-balance text-4xl font-extrabold leading-[1.08] tracking-[-0.03em] sm:text-5xl md:text-6xl xl:text-[4rem]">
-                Reliable Repair Service <span className="text-[#E51B12]">At Your Doorstep.</span>
+                Reliable Repair Service ankit <span className="text-[#E51B12]">At Your Doorstep.</span>
               </h1>
               <p style={{ animationDelay: '140ms' }} className="sg-hero-up mb-9 max-w-lg text-base leading-[1.7] text-gray-700 sm:text-lg">
                 Sai Garage offers expert bike, scooter and car repairs with honest pricing and quick
@@ -1054,7 +1054,7 @@ const Home = () => {
             className="inline-flex min-h-[44px] items-center gap-2 self-start rounded-lg text-sm font-bold text-[#111111] underline decoration-[#E51B12] decoration-2 underline-offset-4 transition-colors hover:text-[#E51B12] sm:self-center"
           >
             <MapPin className="h-4 w-4 text-[#E51B12]" aria-hidden="true" />
-            View on Google Maps ankit
+            View on Google Maps 
           </a>
         </address>
       </section>
