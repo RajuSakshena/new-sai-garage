@@ -253,7 +253,7 @@ const testimonials: Testimonial[] = [
     status: 'approved',
   },
   {
-    name: 'Prabhjeet Sharma',
+    name: 'Anil Sharma',
     quote:
       'When my bike broke down, Sai Garage responded immediately. The mechanic arrived the next morning, providing prompt and highly professional service',
     rating: 5,
