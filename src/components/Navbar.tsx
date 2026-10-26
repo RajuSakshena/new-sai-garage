@@ -45,7 +45,7 @@ const Navbar = () => {
           className="hidden md:inline-flex items-center gap-2 bg-[#E51B12] text-white text-sm font-semibold px-4 py-2 rounded-lg hover:bg-[#c4150d] transition-colors"
         >
           <Phone className="h-4 w-4" />
-          Call Now
+          Call Now Ankit
         </a>
 
         {/* Mobile toggle */}
